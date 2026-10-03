@@ -1,0 +1,18 @@
+# Backups
+*.bak
+*.backup
+*~
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# KDE / editor metadata
+.directory
+.idea/
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
